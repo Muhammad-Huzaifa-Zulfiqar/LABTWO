@@ -1,2 +1,7 @@
-Console>ReadLine("Muhammad Huzaifa");
-Console>ReadLine("24-ST-007");
+Console.ReadLine("Muhammad Huzaifa");
+Console.ReadLine("24-ST-007");
+Console.ReadLine("English");
+Console.ReadLine("Urdu");
+Console.ReadLine("Maths");
+Console.ReadLine("Computer");
+Console.ReadLine("Physics");
